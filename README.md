@@ -1,3 +1,10 @@
+## 📥 Download Game
+
+Download file game Space Shooter:
+[Download Space Shooter (.sb3)](Space-Shooter.sb3)
+
+Game ini dibuat menggunakan Scratch.
+
 # 🚀 Space Shooter
 
 ## 📖 About the Game
