@@ -35,13 +35,11 @@
 
 ## 📷 Screenshots
 
-Tambahkan screenshot permainan di sini.
-
 ### Start Menu
-![Space Shooter 1](game1.png)
+<img src="game1.png" width="350">
 
 ### Gameplay 
-![Space Shooter Gameplay 2](game2.png)
+<img src="game2.png" width="350">
 
 ---
 
