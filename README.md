@@ -37,6 +37,12 @@
 
 Tambahkan screenshot permainan di sini.
 
+### Start Menu
+![Space Shooter 1](game1.png)
+
+### Gameplay 
+![Space Shooter Gameplay 2](game2.png)
+
 ---
 
 ⭐ Thank you for visiting this repository!
